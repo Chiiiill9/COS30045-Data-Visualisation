@@ -1,2 +1,3 @@
 # COS30045-Data-Visualisation
-Refer to different branch for different labs and assignments
+
+Refer to different branches for different labs and assignments
